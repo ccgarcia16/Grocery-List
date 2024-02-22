@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: maroon;
+}
+
+section {
+    margin: 10px;
+    background-color: beige;
+    width: 500px;
+    padding: 10px;
+    margin: 10px;
+    border: 15px crimson;
+}
+
+
+
+
+.pantry {
+    display: flex;
+}
+
+#canned {
+    padding: 15px;
+}
+
+#drygoods {
+    padding: 15px;
+}
+
+.freezeritems {
+    display: flex;
+}
